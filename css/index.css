@@ -1,0 +1,66 @@
+body {
+	background: url(../img/mountain.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.main-section {
+	margin: 0 auto;
+	margin-top: 150px;
+	padding: 0;
+}
+.modal-content {
+	opacity: .85;
+}
+.user-img {
+	margin-top: -50px;
+	margin-bottom: 30px;
+}
+.user-img img {
+	height: 130px;
+	width: 130px;
+}
+.form-group {
+	margin-bottom: 20px;
+}
+.form-group input {
+	border-radius: 0;
+	border: 0;
+	height: 38px;
+	padding-left: 50px;
+}
+.form-input button {
+	margin-bottom: 20px;
+}
+.btn-success {
+	background-color: #2ecc71;
+	border-radius: 0;
+}
+.btn-success:hover {
+	background-color: #27ae60;
+}
+.link-part {
+	padding: 5px 0 20px;
+}
+.link-part a {
+	color: #bfe4ec;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
